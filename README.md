@@ -4,3 +4,4 @@
 Technoxian Code w/ [@japaneil](https://github.com/japaneil)
 
 https://www.technoxian.com
+This Code is [Licensed](LICENSE).
