@@ -1,5 +1,5 @@
 # Technoxian Code
-<img src="https://www.technoxian.com/wp-content/uploads/2016/08/TX-LOGO-1-1.png">
+<img src="https://www.technoxian.com/images/txlogosvg.svg" style="width: 90%;">
 
 Technoxian Code w/ [@japaneil](https://github.com/japaneil)
 
